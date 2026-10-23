@@ -6,8 +6,8 @@ Site da Atividade A2 da disciplina de Front-End (Análise e Desenvolvimento de S
 
 ## Site no ar
 
-- **Endereço público (Railway):** _a preencher após o deploy_
-- **Repositório:** este repositório no GitHub, vinculado ao Railway. Cada push na branch `main` publica uma nova versão automaticamente.
+- **Endereço público (Railway):** [_a preencher após o deploy_](https://reforma-site-production.up.railway.app)
+- **Repositório:** https://github.com/Alantustoni/reforma-site — vinculado ao Railway. Cada push na branch `main` publica uma nova versão automaticamente.
 
 ## Equipe
 
