@@ -43,3 +43,4 @@ Após a revisão, registrar quem modificou cada página, dificuldades encontrada
 | Repositório | Criação do repositório no GitHub com README na raiz e envio das 10 páginas, css, js, img, assets e docs | Código versionado, index.html na raiz |
 | Hospedagem | Projeto no Railway criado a partir do repositório (GitHub Repository → Deploy Repo) | Deploy automático a cada push na main |
 | Endereço | Generate Domain em Settings → Networking | Endereço público registrado no README |
+| Identificação | Preenchimento dos dados da equipe (nomes, RGMs, turma e professor) em contato.html, identificacao_e_atividade.txt, escopo.md/PDF e README | Documentação sem campos pendentes |

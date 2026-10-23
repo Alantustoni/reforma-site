@@ -51,24 +51,22 @@ Os anúncios, os projetos apresentados e os indicadores de impacto são fictíci
 | assets/ | MP4, MP3, VTT e transcrição |
 | docs/ | Escopo, planejamento, fontes, orçamento e testes |
 
-## Divisão de funções a confirmar
+## Equipe ReForma — ADS 2º semestre — Prof. Paulo Fratta
 
-| Responsabilidade | Pessoa |
-|---|---|
-| Proposta e coordenação | Alan Costa - confirmar nome completo e RA |
-| Conteúdo e páginas institucionais | Integrante(s) a definir |
-| Catálogo, formulários e interações | Integrante(s) a definir |
-| Identidade visual e responsividade | Integrante(s) a definir |
-| Acessibilidade, mídia e testes | Integrante(s) a definir |
-| Documentação e entrega | Integrante(s) a definir |
+| Integrante | RGM | Responsabilidade |
+|---|---|---|
+| Alan da Costa Tustoni | 47652535 | Coordenação, escopo, página inicial, catálogo, orçamento e documentação |
+| Allan Santos Pereira | 047506458 | Estrutura HTML, páginas Sobre e Projetos; conteúdo de Impacto e Notícias |
+| Bruno Ribeiro Alves Paixão | 47601388 | CSS, responsividade, Galeria e mídias |
+| Vinicius da Silva Rocha | 47479981 | JavaScript, formulários, Contato e testes de interação e acessibilidade |
 
-A lista não atribui trabalho já realizado aos colegas. A equipe deve registrar a divisão efetiva e revisar a implementação para conseguir apresentá-la.
+## Publicação
+
+- Repositório: https://github.com/Alantustoni/reforma-site
+- Site no ar (Railway): https://reforma-site-production.up.railway.app
 
 ## Antes de enviar ao Blackboard
 
-- Preencher todos os nomes completos, RAs, turma, equipe, professor e data oficial.
-- Atualizar a seção de integrantes em contato.html e docs/identificacao_e_atividade.txt.
-- Conferir escopo.md e Escopo_ReForma.pdf, incluindo a aprovação a preencher.
 - Verificar o prazo e a forma de envio no Blackboard. O projeto não foi enviado automaticamente.
 - Reunir ZIP, identificação/descrição em TXT, escopo em PDF e print em PNG conforme o enunciado.
 

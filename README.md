@@ -6,7 +6,7 @@ Site da Atividade A2 da disciplina de Front-End (Análise e Desenvolvimento de S
 
 ## Site no ar
 
-- **Endereço público (Railway):** [_a preencher após o deploy_](https://reforma-site-production.up.railway.app)
+- **Endereço público (Railway):** https://reforma-site-production.up.railway.app
 - **Repositório:** https://github.com/Alantustoni/reforma-site — vinculado ao Railway. Cada push na branch `main` publica uma nova versão automaticamente.
 
 ## Equipe
@@ -18,7 +18,7 @@ Site da Atividade A2 da disciplina de Front-End (Análise e Desenvolvimento de S
 | Bruno Ribeiro Alves Paixão | 47601388 | CSS, responsividade, Galeria e mídias |
 | Vinicius da Silva Rocha | 47479981 | JavaScript, formulários, Contato, testes de interação e acessibilidade |
 
-Professor: Prof. Paulo Fratta · Turma: a preencher
+Equipe: ReForma · Turma: ADS 2º semestre · Professor: Prof. Paulo Fratta
 
 ## As 10 páginas
 

@@ -3,16 +3,17 @@ REFORMA - ATIVIDADE A2 - PROJETO DE SITE
 Instituição: Universidade Cidade de São Paulo (UNICID)
 Curso: Análise e Desenvolvimento de Sistemas
 Disciplina: Front-End
-Equipe: A PREENCHER
-Turma: A PREENCHER
-Professor(a): A PREENCHER
+Equipe: ReForma
+Turma: ADS 2º semestre
+Professor(a): Paulo Fratta
 Data da entrega: CONFERIR NO BLACKBOARD
 Data de preparação: 22/09/2026
 
-INTEGRANTES - confirmar os nomes completos e preencher todos os integrantes
-1. Alan Costa - RA: A PREENCHER
-2. A PREENCHER
-Demais integrantes: A PREENCHER CONFORME A EQUIPE
+INTEGRANTES
+1. Alan da Costa Tustoni - RGM: 47652535
+2. Allan Santos Pereira - RGM: 047506458
+3. Bruno Ribeiro Alves Paixão - RGM: 47601388
+4. Vinicius da Silva Rocha - RGM: 47479981
 
 DESCRIÇÃO DA ATIVIDADE
 O ReForma é um site de doação de sobras utilizáveis de materiais de construção. O objetivo é conectar doadores e interessados para incentivar o reaproveitamento, reduzir desperdícios e apoiar melhorias de moradia. A retirada seria combinada diretamente entre as partes.
@@ -20,6 +21,10 @@ O ReForma é um site de doação de sobras utilizáveis de materiais de constru�
 A primeira versão possui dez páginas HTML interligadas, CSS responsivo, recursos de acessibilidade, formulários com validação HTML5, catálogo demonstrativo, imagens com fontes, vídeo com legendas, áudio com transcrição, iframe e documentação.
 
 Os anúncios, as iniciativas e os indicadores exibidos são fictícios. Os formulários geram demonstrações locais, sem enviar mensagens ou publicar doações.
+
+PUBLICAÇÃO
+Repositório GitHub: https://github.com/Alantustoni/reforma-site
+Site no ar (Railway): https://reforma-site-production.up.railway.app
 
 ARQUIVOS
 ReForma_Projeto.zip: pasta completa com HTML, CSS, JS, imagens, mídia e documentação.

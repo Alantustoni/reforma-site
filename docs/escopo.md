@@ -8,10 +8,9 @@ Sobrou na sua obra, faz falta em outra casa.
 - Curso: Análise e Desenvolvimento de Sistemas.
 - Disciplina: Front-End.
 - Projeto: ReForma - Doação de materiais de construção.
-- Nome da equipe: a preencher.
-- Proponente: Alan Costa (confirmar nome completo e RA).
-- Demais integrantes e RAs: a preencher pela equipe.
-- Turma e professor(a): a confirmar.
+- Nome da equipe: ReForma.
+- Integrantes: Alan da Costa Tustoni (RGM 47652535), Allan Santos Pereira (RGM 047506458), Bruno Ribeiro Alves Paixão (RGM 47601388) e Vinicius da Silva Rocha (RGM 47479981).
+- Turma: ADS 2º semestre. Professor: Paulo Fratta.
 - Data de preparação: 22/09/2026.
 - Prazo de entrega: consultar o Blackboard.
 
@@ -104,13 +103,13 @@ Há uma integração opcional de busca para navegadores com WebMCP. A busca conv
 
 | Etapa | Data/condição | Responsável |
 |---|---|---|
-| Definição da ideia e escopo | 22/09/2026 | Alan Costa e equipe - confirmar |
-| Estrutura e identidade visual | 22/09/2026 | Equipe - atribuir nomes |
-| Páginas, formulários e conteúdo | 22/09/2026 | Equipe - atribuir nomes |
-| Mídia, orçamento e documentação | 22/09/2026 | Equipe - atribuir nomes |
-| Testes e revisão da primeira versão | 22/09/2026 | Equipe - atribuir nomes |
-| Preenchimento dos dados acadêmicos | Antes do envio | Todos os integrantes |
-| Aprovação e envio ao Blackboard | Conforme prazo oficial | Responsável a definir |
+| Definição da ideia e escopo | 22/09/2026 | Alan da Costa Tustoni |
+| Estrutura HTML, páginas Sobre, Projetos, Impacto e Notícias | 22/09/2026 | Allan Santos Pereira |
+| Página inicial, catálogo, orçamento e documentação | 22/09/2026 | Alan da Costa Tustoni |
+| CSS, responsividade, Galeria e mídias | 22/09/2026 | Bruno Ribeiro Alves Paixão |
+| JavaScript, formulários, Contato e testes de interação e acessibilidade | 22/09/2026 | Vinicius da Silva Rocha |
+| Publicação no GitHub e Railway | 22/10/2026 | Alan da Costa Tustoni |
+| Revisão final e envio ao Blackboard | Conforme prazo oficial | Todos os integrantes |
 
 A tabela é um plano de organização, não uma declaração de contribuição individual. A equipe deve registrar a divisão real no README e no diário de bordo. Gestão proposta: checklist compartilhado e histórico de alterações.
 
@@ -141,7 +140,7 @@ O cumprimento técnico deve ser lido junto das evidências. A aprovação acadê
 
 ## 13. Aprovação
 
-Responsável pela validação do escopo: a preencher.
+Responsável pela validação do escopo: Prof. Paulo Fratta.
 
 Nome: ______________________________________________
 
