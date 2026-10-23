@@ -1,0 +1,28 @@
+REFORMA - ATIVIDADE A2 - PROJETO DE SITE
+
+Instituição: Universidade Cidade de São Paulo (UNICID)
+Curso: Análise e Desenvolvimento de Sistemas
+Disciplina: Front-End
+Equipe: A PREENCHER
+Turma: A PREENCHER
+Professor(a): A PREENCHER
+Data da entrega: CONFERIR NO BLACKBOARD
+Data de preparação: 22/09/2026
+
+INTEGRANTES - confirmar os nomes completos e preencher todos os integrantes
+1. Alan Costa - RA: A PREENCHER
+2. A PREENCHER
+Demais integrantes: A PREENCHER CONFORME A EQUIPE
+
+DESCRIÇÃO DA ATIVIDADE
+O ReForma é um site de doação de sobras utilizáveis de materiais de construção. O objetivo é conectar doadores e interessados para incentivar o reaproveitamento, reduzir desperdícios e apoiar melhorias de moradia. A retirada seria combinada diretamente entre as partes.
+
+A primeira versão possui dez páginas HTML interligadas, CSS responsivo, recursos de acessibilidade, formulários com validação HTML5, catálogo demonstrativo, imagens com fontes, vídeo com legendas, áudio com transcrição, iframe e documentação.
+
+Os anúncios, as iniciativas e os indicadores exibidos são fictícios. Os formulários geram demonstrações locais, sem enviar mensagens ou publicar doações.
+
+ARQUIVOS
+ReForma_Projeto.zip: pasta completa com HTML, CSS, JS, imagens, mídia e documentação.
+Escopo_ReForma.pdf: escopo do projeto.
+ReForma_Interface.png: print da página inicial.
+Este TXT: identificação dos integrantes e descrição da atividade.

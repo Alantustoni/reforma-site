@@ -1,0 +1,76 @@
+{
+  "pages": 10,
+  "checks": [
+    {
+      "file": "contato.html",
+      "local_references": "checked",
+      "h1": 1,
+      "ids": "unique",
+      "labels": "checked"
+    },
+    {
+      "file": "sobre.html",
+      "local_references": "checked",
+      "h1": 1,
+      "ids": "unique",
+      "labels": "checked"
+    },
+    {
+      "file": "noticias.html",
+      "local_references": "checked",
+      "h1": 1,
+      "ids": "unique",
+      "labels": "checked"
+    },
+    {
+      "file": "impacto.html",
+      "local_references": "checked",
+      "h1": 1,
+      "ids": "unique",
+      "labels": "checked"
+    },
+    {
+      "file": "orcamento_hospedagem.html",
+      "local_references": "checked",
+      "h1": 1,
+      "ids": "unique",
+      "labels": "checked"
+    },
+    {
+      "file": "galeria.html",
+      "local_references": "checked",
+      "h1": 1,
+      "ids": "unique",
+      "labels": "checked"
+    },
+    {
+      "file": "index.html",
+      "local_references": "checked",
+      "h1": 1,
+      "ids": "unique",
+      "labels": "checked"
+    },
+    {
+      "file": "midia.html",
+      "local_references": "checked",
+      "h1": 1,
+      "ids": "unique",
+      "labels": "checked"
+    },
+    {
+      "file": "projetos.html",
+      "local_references": "checked",
+      "h1": 1,
+      "ids": "unique",
+      "labels": "checked"
+    },
+    {
+      "file": "acessibilidade.html",
+      "local_references": "checked",
+      "h1": 1,
+      "ids": "unique",
+      "labels": "checked"
+    }
+  ],
+  "errors": []
+}
