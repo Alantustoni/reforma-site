@@ -9,7 +9,7 @@ Sobrou na sua obra, faz falta em outra casa.
 - Disciplina: Front-End.
 - Projeto: ReForma - Doação de materiais de construção.
 - Nome da equipe: ReForma.
-- Integrantes: Alan da Costa Tustoni (RGM 47652535), Allan Santos Pereira (RGM 047506458), Bruno Ribeiro Alves Paixão (RGM 47601388) e Vinicius da Silva Rocha (RGM 47479981).
+- Integrantes: Alan da Costa Tustoni, Allan Santos Pereira, Bruno Ribeiro Alves Paixão e Vinicius da Silva Rocha.
 - Turma: ADS 2º semestre. Professor: Paulo Fratta.
 - Data de preparação: 22/09/2026.
 - Prazo de entrega: consultar o Blackboard.

@@ -11,12 +11,12 @@ Site da Atividade A2 da disciplina de Front-End (Análise e Desenvolvimento de S
 
 ## Equipe
 
-| Integrante | RGM | Responsabilidades |
-|---|---|---|
-| Alan da Costa Tustoni | 47652535 | Coordenação, escopo, página inicial, catálogo, orçamento e documentação |
-| Allan Santos Pereira | 047506458 | Estrutura HTML, páginas Sobre e Projetos; conteúdo de Impacto e Notícias |
-| Bruno Ribeiro Alves Paixão | 47601388 | CSS, responsividade, Galeria e mídias |
-| Vinicius da Silva Rocha | 47479981 | JavaScript, formulários, Contato, testes de interação e acessibilidade |
+| Integrante | Responsabilidades |
+|---|---|
+| Alan da Costa Tustoni | Coordenação, escopo, página inicial, catálogo, orçamento e documentação |
+| Allan Santos Pereira | Estrutura HTML, páginas Sobre e Projetos; conteúdo de Impacto e Notícias |
+| Bruno Ribeiro Alves Paixão | CSS, responsividade, Galeria e mídias |
+| Vinicius da Silva Rocha | JavaScript, formulários, Contato, testes de interação e acessibilidade |
 
 Equipe: ReForma · Turma: ADS 2º semestre · Professor: Prof. Paulo Fratta
 

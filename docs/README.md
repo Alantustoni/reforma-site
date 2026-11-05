@@ -53,12 +53,12 @@ Os anúncios, os projetos apresentados e os indicadores de impacto são fictíci
 
 ## Equipe ReForma — ADS 2º semestre — Prof. Paulo Fratta
 
-| Integrante | RGM | Responsabilidade |
-|---|---|---|
-| Alan da Costa Tustoni | 47652535 | Coordenação, escopo, página inicial, catálogo, orçamento e documentação |
-| Allan Santos Pereira | 047506458 | Estrutura HTML, páginas Sobre e Projetos; conteúdo de Impacto e Notícias |
-| Bruno Ribeiro Alves Paixão | 47601388 | CSS, responsividade, Galeria e mídias |
-| Vinicius da Silva Rocha | 47479981 | JavaScript, formulários, Contato e testes de interação e acessibilidade |
+| Integrante | Responsabilidade |
+|---|---|
+| Alan da Costa Tustoni | Coordenação, escopo, página inicial, catálogo, orçamento e documentação |
+| Allan Santos Pereira | Estrutura HTML, páginas Sobre e Projetos; conteúdo de Impacto e Notícias |
+| Bruno Ribeiro Alves Paixão | CSS, responsividade, Galeria e mídias |
+| Vinicius da Silva Rocha | JavaScript, formulários, Contato e testes de interação e acessibilidade |
 
 ## Publicação
 
