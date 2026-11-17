@@ -88,4 +88,7 @@ Testes feitos no navegador com o site servido por `python -m http.server`, pági
 | Preencher tudo corretamente e validar | Aviso "Demonstração validada"; nenhum erro visível; rascunho removido do localStorage; formulário limpo |
 | `node --check js/principal.js` | Sem erros de sintaxe |
 
-Ainda não refeitos nesta data: validação W3C das dez páginas após a alteração do texto de `contato.html`, Lighthouse e teste em aparelho físico.
+| Validação W3C de `impacto.html` e `orcamento_hospedagem.html` (validator.w3.org/nu) após as novas seções | 0 erros e 0 avisos em cada uma |
+| Seções novas no navegador | Dado real com fonte, lista dos ODS e botão "Doar material" em Impacto; seção do Railway em Orçamento |
+
+Ainda não refeitos nesta data: validação W3C das outras oito páginas (apenas `contato.html` mudou, em um texto), Lighthouse e teste em aparelho físico.

@@ -28,7 +28,13 @@ Cloudflare Pages Free com reforma-doacoes.com.br, se disponível: R$ 40,00 por a
 
 A opção atende ao site estático sem custo de servidor pago. A Cloudflare declara utilizar 100% de energia renovável em suas operações; isso é um critério declarado pelo fornecedor, não uma medida da pegada do ReForma. Imagens WebP, arquivos locais e mídia sem autoplay complementam a proposta.
 
-O link de demonstração entregue utiliza a infraestrutura disponível no ambiente de criação, e não representa contratação de um desses planos.
+## Onde o site está publicado hoje
+
+O ReForma está no ar no Railway: https://reforma-site-production.up.railway.app
+
+- Por que o Railway: integração direta com o GitHub (cada push na `main` publica uma nova versão), HTTPS automático e uso da plataforma no material da disciplina.
+- Custo (consulta em 16/11/2026): plano Free com teste de 30 dias e US$ 5 em créditos, depois US$ 1 por mês; plano Hobby com uso mínimo de US$ 5 por mês.
+- Para uma operação contínua sem custo de servidor, a escolha do orçamento continua sendo Cloudflare Pages com domínio .com.br.
 
 ## Fontes oficiais
 
@@ -40,3 +46,4 @@ O link de demonstração entregue utiliza a infraestrutura disponível no ambien
 - https://www.netlify.com/pricing/personal-vs-free/
 - https://www.hostinger.com/br/hospedagem-de-sites
 - https://registro.br/dominio/
+- https://railway.com/pricing

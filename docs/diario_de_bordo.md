@@ -56,6 +56,10 @@ Após a revisão, registrar quem modificou cada página, dificuldades encontrada
 | 16/11/2026 | Trabalho em branch `versao-final` para abrir pull request | Histórico separado da `main` até a revisão |
 | 16/11/2026 | Testes no navegador e atualização de README, escopo, evidências e deste diário | Registrados em evidencias_testes.md |
 
+| 16/11/2026 | Página Impacto: dado real com fonte (ABREMA) e relação com os ODS 10, 11 e 12 | Tema ligado aos ODS de forma explícita no site |
+| 16/11/2026 | Página de orçamento: onde o site está publicado (Railway), por quê e quanto custa | Hospedagem justificada no orçamento |
+| 16/11/2026 | Regras de uso de IA do projeto registradas em docs/regras_ia.md | Plano de contexto para os próximos pedidos à IA |
+
 ## Uso de IA
 
 | Ferramenta | Onde foi usada | O que a equipe fez com o resultado |

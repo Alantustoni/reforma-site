@@ -19,6 +19,12 @@ PDF enviado pelo usuário: Atividade 01 - AV A2 - Projeto de Site - 2-2026. Orie
 
 Preços não são oferta do ReForma. Nenhum domínio foi reservado e nenhum plano foi contratado.
 
+## Dado de contexto e ODS (versão final, consulta em 16/11/2026)
+
+- Destinação inadequada de resíduos urbanos em 2024 (28,1 milhões de toneladas, 40,3% do coletado), Panorama 2025 da ABREMA, conforme reportagem: https://cenarioenergia.com.br/2025/12/09/brasil-reaproveita-apenas-12-dos-residuos-para-energia-e-biometano-aponta-panorama-2025-da-abrema/
+- Objetivos de Desenvolvimento Sustentável: https://brasil.un.org/pt-br/sdgs
+- Railway, planos e preços: https://railway.com/pricing
+
 ## Orientação de descarte
 
 Prefeitura de São Paulo, informações sobre Ecopontos: https://prefeitura.sp.gov.br/noticia/encontre-o-ecoponto-mais-perto-de-sua-casa

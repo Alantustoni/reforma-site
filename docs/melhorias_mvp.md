@@ -17,6 +17,8 @@ A COMPLETAR PELA EQUIPE: outros pontos que o professor tenha comentado em aula.
 | Dados do formulário | Sumiam ao recarregar ou sair da página | Rascunho salvo no localStorage e recuperado ao recarregar; botão "Apagar rascunho" | `contato.html` |
 | localStorage | Só preferências de leitura | Preferências de leitura e rascunho do contato | `js/principal.js` |
 | Código JavaScript | Trecho opcional de WebMCP difícil de explicar | Trecho removido; funções novas com nomes em português e comentários | `js/principal.js` |
+| ODS e dados | Só indicadores fictícios, sem menção aos ODS | Dado real com fonte e relação com os ODS 10, 11 e 12 | `impacto.html` |
+| Justificativa da hospedagem | Orçamento recomendava Cloudflare sem citar onde o site estava | Seção sobre o Railway: motivo e custo | `orcamento_hospedagem.html` |
 | Onde o site roda | Pasta local em .zip | Publicado no Railway com HTTPS, com deploy automático a cada push | README |
 | Código-fonte | Arquivo .zip | Repositório no GitHub com histórico de commits, branch `versao-final` e pull request | GitHub |
 | Documentação | Diário com um único registro | Diário datado com uso de IA, este arquivo de melhorias e evidências da versão final | `docs/` |

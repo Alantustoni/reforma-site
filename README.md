@@ -20,6 +20,8 @@ Site do projeto da disciplina de Front-End, na versão final da Atividade 02 (AV
 
 Equipe: ReForma · Turma: ADS 2º semestre · Professor: Prof. Paulo Fratta
 
+O site foi construído com assistência de IA (registro em `docs/diario_de_bordo.md`). Cada integrante é responsável por revisar, explicar e apresentar a sua área.
+
 ## As 10 páginas
 
 | Arquivo | Conteúdo |
