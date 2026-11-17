@@ -91,4 +91,18 @@ Testes feitos no navegador com o site servido por `python -m http.server`, pági
 | Validação W3C de `impacto.html` e `orcamento_hospedagem.html` (validator.w3.org/nu) após as novas seções | 0 erros e 0 avisos em cada uma |
 | Seções novas no navegador | Dado real com fonte, lista dos ODS e botão "Doar material" em Impacto; seção do Railway em Orçamento |
 
-Ainda não refeitos nesta data: validação W3C das outras oito páginas (apenas `contato.html` mudou, em um texto), Lighthouse e teste em aparelho físico.
+
+## Versão publicada — verificações de 16/11/2026 após o merge
+
+Site: https://reforma-site-production.up.railway.app (pull request 1 mesclado na `main`).
+
+| Verificação | Resultado |
+|---|---|
+| Validador W3C (validator.w3.org/nu) pela URL publicada: index, sobre, projetos, impacto e acessibilidade | 0 erros e 0 avisos em cada página |
+| Validador W3C de `orcamento_hospedagem.html` (mesmo conteúdo publicado, enviado como arquivo) | 0 erros e 0 avisos |
+| Lighthouse 13.6.0, modo celular, página inicial publicada | Desempenho 100, Acessibilidade 100, Boas práticas 100, SEO 100 |
+| Largura de celular (375 px) na página inicial publicada | Sem rolagem horizontal (largura do documento igual a 375 px) |
+| Páginas publicadas respondendo com HTTPS | index, sobre, contato, orçamento e mídia com resposta 200 |
+| Links e arquivos locais das dez páginas | Nenhuma referência quebrada; `alt` em todas as imagens |
+
+Não refeitos nesta data: validação W3C pela URL de galeria, mídia, notícias e contato (o serviço passou a exigir verificação manual no navegador); essas páginas foram validadas sem erros em 22/09 e só `contato.html` mudou, em um texto. Também não houve teste em aparelho físico.
