@@ -20,14 +20,15 @@ Projeto acadêmico de Análise e Desenvolvimento de Sistemas, UNICID. Tema: sust
 - Catálogo com três anúncios de exemplo, busca por texto, categoria e bairro, estado sem resultados e limpeza de filtros.
 - Detalhes de cada anúncio e ligação para formulário com contexto do material.
 - Prévia de doação com valores preenchidos pelo visitante, sem publicação ou armazenamento.
-- Validação HTML5 do contato: required, email, tel, date, number, pattern e rótulos associados.
+- Contato validado em JavaScript (`preventDefault`): mensagem de erro própria abaixo de cada campo, borda vermelha em destaque, foco levado ao primeiro erro e aviso geral. Sem JavaScript, a validação HTML5 (required, email, tel, date, number, pattern) continua valendo.
+- Rascunho do contato salvo no `localStorage`: ao recarregar a página os dados digitados voltam; o botão "Apagar rascunho" e a validação bem-sucedida removem o rascunho.
 - Preferências locais de alto contraste e texto ampliado.
 - Vídeo, áudio, transcrição, legendas e iframe com conteúdo local incorporado.
 - Tabelas de impacto simulado e orçamento de hospedagem/domínio com fontes.
 
-## Limites da primeira versão
+## Limites desta versão
 
-Esta é uma interface acadêmica. Não há backend, autenticação, banco de dados, publicação real de anúncios, envio de mensagens, upload de fotos nem confirmação real de retirada. Nenhum formulário faz requisição de envio. Os dados dos formulários permanecem na página e somem ao sair. Apenas preferências de leitura usam localStorage.
+Esta é uma interface acadêmica. Não há backend, autenticação, banco de dados, publicação real de anúncios, envio de mensagens, upload de fotos nem confirmação real de retirada. Nenhum formulário faz requisição de envio. A prévia de doação permanece na página e some ao sair. O `localStorage` guarda apenas as preferências de leitura e o rascunho do formulário de contato, sempre no navegador da própria pessoa.
 
 Os anúncios, os projetos apresentados e os indicadores de impacto são fictícios e estão identificados. As imagens são ilustrativas, geradas com IA. Nenhum nome de domínio foi reservado e nenhuma hospedagem paga foi contratada.
 
@@ -43,7 +44,7 @@ Os anúncios, os projetos apresentados e os indicadores de impacto são fictíci
 | galeria.html | Imagens, legendas e fontes |
 | midia.html | Vídeo, áudio, transcrição e iframe |
 | noticias.html | Artigos autorais e referência oficial |
-| contato.html | Formulário HTML5 e integrantes |
+| contato.html | Formulário validado em JavaScript, rascunho local e integrantes |
 | orcamento_hospedagem.html | Comparativo e justificativa |
 | css/estilo.css | Identidade visual e responsividade |
 | js/principal.js | Interações locais e preferências |
@@ -67,8 +68,8 @@ Os anúncios, os projetos apresentados e os indicadores de impacto são fictíci
 
 ## Antes de enviar ao Blackboard
 
-- Verificar o prazo e a forma de envio no Blackboard. O projeto não foi enviado automaticamente.
-- Reunir ZIP, identificação/descrição em TXT, escopo em PDF e print em PNG conforme o enunciado.
+- Prazo da 2ª entrega (Atividade 02 – AV A1): 17/11/2026, 23h59.
+- Reunir: TXT com nome e RA dos integrantes, URL do site e link do repositório, slides, prints da home (computador e celular), evidências de validação, ZIP do projeto e planilha da rubrica preenchida.
 
 ## Tecnologias e autoria
 

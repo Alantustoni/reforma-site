@@ -67,9 +67,28 @@ Os valores indicam os pares especificados, não uma auditoria automática de tod
 - Não houve avaliação por usuários de leitores de tela ou por pessoas com deficiência; essa rodada permanece recomendada antes de uso real.
 - Não houve auditoria integral WCAG, teste em aparelho físico ou validação de todas as combinações de navegador e ampliação.
 - A reprodução completa do áudio/vídeo não foi avaliada subjetivamente; arquivos, metadados, pôster, controles e transcrição foram conferidos.
-- A API opcional WebMCP não estava disponível no contexto de teste. Sua execução não foi validada; a busca convencional foi testada e funciona de forma independente.
+- A integração opcional WebMCP da primeira versão não pôde ser validada e foi removida na versão final (16/11/2026); a busca convencional segue funcionando.
 - O projeto não possui backend; nenhum teste de entrega real de mensagens, anúncios ou retirada é aplicável nesta versão.
 
 ## Revisão antes da entrega
 
 Abrir a pasta extraída no computador da apresentação, percorrer as páginas e confirmar reprodução da mídia. Preencher os dados completos da equipe e consultar o prazo no Blackboard.
+
+## Versão final — testes de 16/11/2026
+
+Testes feitos no navegador com o site servido por `python -m http.server`, página `contato.html`. Dados fictícios.
+
+| Teste | Resultado observado |
+|---|---|
+| Enviar o formulário vazio | Envio bloqueado; 7 mensagens de erro exibidas (nome, e-mail, telefone, assunto, data, mensagem e caixa de ciência); 7 campos com borda vermelha; aviso "Revise os 7 campos destacados antes de continuar."; foco no campo Nome |
+| Corrigir o nome para "Pessoa de Teste" | Erro do nome some ao digitar; os outros 6 continuam |
+| E-mail "email-invalido" e telefone "123" | Continuam marcados com erro |
+| Digitar nos campos | Rascunho gravado no localStorage na chave `reforma-contato-rascunho` |
+| Recarregar a página | Nome e e-mail digitados voltam aos campos; aviso "Recuperamos o rascunho salvo neste navegador." |
+| Preencher tudo corretamente e validar | Aviso "Demonstração validada"; nenhum erro visível; rascunho removido do localStorage; formulário limpo |
+| `node --check js/principal.js` | Sem erros de sintaxe |
+
+| Validação W3C de `impacto.html` e `orcamento_hospedagem.html` (validator.w3.org/nu) após as novas seções | 0 erros e 0 avisos em cada uma |
+| Seções novas no navegador | Dado real com fonte, lista dos ODS e botão "Doar material" em Impacto; seção do Railway em Orçamento |
+
+Ainda não refeitos nesta data: validação W3C das outras oito páginas (apenas `contato.html` mudou, em um texto), Lighthouse e teste em aparelho físico.

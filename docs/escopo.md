@@ -12,7 +12,7 @@ Sobrou na sua obra, faz falta em outra casa.
 - Integrantes: Alan da Costa Tustoni, Allan Santos Pereira, Bruno Ribeiro Alves Paixão e Vinicius da Silva Rocha.
 - Turma: ADS 2º semestre. Professor: Paulo Fratta.
 - Data de preparação: 22/09/2026.
-- Prazo de entrega: consultar o Blackboard.
+- Prazos de entrega: MVP em 23/09/2026; versão final em 17/11/2026.
 
 ## 2. Contexto e justificativa
 
@@ -31,7 +31,7 @@ Objetivos específicos mensuráveis:
 1. Disponibilizar dez páginas HTML interligadas, incluindo as páginas exigidas na atividade.
 2. Apresentar três anúncios fictícios com categoria, quantidade, condição, bairro e detalhes.
 3. Implementar busca com texto, categoria e bairro, incluindo retorno sem resultados e limpeza dos filtros.
-4. Disponibilizar dois formulários demonstrativos com campos rotulados e validação HTML5: prévia de doação e contato.
+4. Disponibilizar dois formulários demonstrativos com campos rotulados: prévia de doação e contato, este com validação em JavaScript e rascunho salvo no localStorage (versão final).
 5. Disponibilizar vídeo legendado, áudio com transcrição, iframe e registros de verificação de navegação, código e acessibilidade.
 
 ## 4. Público-alvo
@@ -52,7 +52,7 @@ Necessidades consideradas: acesso pelo celular, linguagem simples, informação 
 | galeria.html | Três imagens com descrições, legendas e fontes |
 | midia.html | Vídeo, áudio, legendas, transcrição e iframe |
 | noticias.html | Artigos autorais e referência oficial de descarte |
-| contato.html | Formulário HTML5, dados fictícios e integrantes |
+| contato.html | Formulário validado em JavaScript, rascunho local, dados fictícios e integrantes |
 | orcamento_hospedagem.html | Três hospedagens, três domínios, custos e justificativa |
 
 Fluxo principal de consulta: abrir a página inicial, consultar ou filtrar os exemplos, abrir os detalhes de um material e acessar o contato com o contexto preenchido.
@@ -69,7 +69,7 @@ Os formulários não enviam mensagens nem dados para servidores. O contato valid
 - Desempenho: imagens WebP otimizadas, dimensões declaradas, carregamento adiado quando adequado e mídias sem autoplay, com preload de metadados.
 - Sustentabilidade: conteúdo de reaproveitamento, orçamento com critério ambiental declarado pelo provedor e redução de transferências desnecessárias.
 - SEO básico: título e descrição próprios para cada página e hierarquia de headings.
-- Privacidade: formulários sem transmissão nem persistência; preferências de leitura locais e possibilidade de restaurar o padrão.
+- Privacidade: formulários sem transmissão para servidores; preferências de leitura e rascunho do contato ficam apenas no navegador (localStorage), com botões para restaurar o padrão e apagar o rascunho.
 - Portabilidade: a entrega é composta por HTML, CSS, JS e arquivos locais; não depende de framework para abrir no navegador.
 
 ## 7. Mapa e navegação do site
@@ -97,8 +97,6 @@ Textos próprios para o projeto; referência externa identificada no artigo sobr
 
 HTML5, CSS3 e JavaScript sem framework na entrega. Vite é usado somente no ambiente de desenvolvimento para revisão. Git registra a versão do projeto. O Nu Html Checker é utilizado para validação HTML; navegador para verificações de interação e layout. FFmpeg produz os arquivos de mídia; ReportLab gera o PDF do escopo. As ferramentas de produção não precisam ser instaladas para abrir o ZIP.
 
-Há uma integração opcional de busca para navegadores com WebMCP. A busca convencional funciona independentemente dessa API. Sua disponibilidade e validação são registradas nas evidências.
-
 ## 10. Cronograma e divisão de tarefas
 
 | Etapa | Data/condição | Responsável |
@@ -109,7 +107,8 @@ Há uma integração opcional de busca para navegadores com WebMCP. A busca conv
 | CSS, responsividade, Galeria e mídias | 22/09/2026 | Bruno Ribeiro Alves Paixão |
 | JavaScript, formulários, Contato e testes de interação e acessibilidade | 22/09/2026 | Vinicius da Silva Rocha |
 | Publicação no GitHub e Railway | 22/10/2026 | Alan da Costa Tustoni |
-| Revisão final e envio ao Blackboard | Conforme prazo oficial | Todos os integrantes |
+| Versão final: validação em JavaScript, rascunho local e documentação | 16/11/2026 | Equipe |
+| Revisão final e envio ao Blackboard | 17/11/2026 | Todos os integrantes |
 
 A tabela é um plano de organização, não uma declaração de contribuição individual. A equipe deve registrar a divisão real no README e no diário de bordo. Gestão proposta: checklist compartilhado e histórico de alterações.
 
@@ -129,7 +128,7 @@ Fora desta versão: venda, pagamentos, frete, prestação de serviços, contas d
 
 1. Exatamente dez páginas principais disponíveis, interligadas e com conteúdo coerente com reaproveitamento e impacto social.
 2. Catálogo e detalhes legíveis, busca funcional e feedback de ausência de resultados.
-3. Formulários rotulados, campos HTML5 exigidos, validação de preenchimento e confirmação honesta de demonstração.
+3. Formulários rotulados, validação de preenchimento com mensagens de erro e borda em destaque, dados do contato mantidos ao recarregar a página e confirmação honesta de demonstração.
 4. Imagens com alt e fontes; vídeo, áudio, legendas/transcrição e iframe presentes e carregáveis.
 5. Navegação por teclado, foco visível, contraste e adaptação de layout verificados dentro dos limites registrados.
 6. Validação HTML pelo Nu Html Checker sem erros na versão conferida e referências locais sem arquivos ausentes.
@@ -148,4 +147,4 @@ Data: ____ / ____ / ________
 
 Assinatura: _________________________________________
 
-Situação: primeira versão preparada para revisão; aprovação pendente.
+Situação: escopo atualizado em 16/11/2026 para a versão final; aprovação pendente. O arquivo Escopo_ReForma.pdf registra a versão do MVP (22/09/2026).
