@@ -59,6 +59,9 @@ Após a revisão, registrar quem modificou cada página, dificuldades encontrada
 | 16/11/2026 | Página Impacto: dado real com fonte (ABREMA) e relação com os ODS 10, 11 e 12 | Tema ligado aos ODS de forma explícita no site |
 | 16/11/2026 | Página de orçamento: onde o site está publicado (Railway), por quê e quanto custa | Hospedagem justificada no orçamento |
 | 16/11/2026 | Regras de uso de IA do projeto registradas em docs/regras_ia.md | Plano de contexto para os próximos pedidos à IA |
+| 17/11/2026 | CSS reorganizado em linhas legíveis e comentado por seção, sem mudar nenhuma regra | Verificação automática: o CSS novo é equivalente ao anterior |
+| 17/11/2026 | RGMs retirados da página Contato e do TXT de identificação; textos de rascunho removidos da documentação | Dados pessoais fora do repositório público |
+| 17/11/2026 | Prints de antes e depois do formulário de contato | docs/prints e melhorias_mvp.md |
 
 ## Uso de IA
 

@@ -6,8 +6,6 @@ MVP entregue em 23/09/2026 (Atividade 01). Versão final preparada em 16/11/2026
 
 O MVP recebeu 4,825 de 5 pontos. O Blackboard não traz comentário escrito do professor. O ponto fraco identificado na avaliação da 1ª entrega foi o critério 8, Documentação (/docs), marcado como "pequenas falhas": o README e outros arquivos ainda tinham dados da equipe e responsabilidades pendentes, atualizados só na seção 10 do escopo em PDF.
 
-A COMPLETAR PELA EQUIPE: outros pontos que o professor tenha comentado em aula.
-
 ## Antes e depois
 
 | Ponto | Antes (MVP) | Depois (versão final) | Onde ver |
@@ -25,4 +23,9 @@ A COMPLETAR PELA EQUIPE: outros pontos que o professor tenha comentado em aula.
 
 ## Prints de antes e depois
 
-A PREENCHER PELA EQUIPE: print do formulário de contato no MVP (balão nativo do navegador) e print da versão final (mensagens e bordas de erro).
+| Antes (MVP, 23/09/2026) | Depois (versão final, 16/11/2026) |
+|---|---|
+| ![Formulário de contato no MVP, sem mensagens próprias de erro](prints/contato_antes_mvp.png) | ![Formulário de contato na versão final, com mensagem e borda vermelha em cada campo](prints/contato_depois_final.png) |
+| Só a validação nativa do HTML5: o navegador mostrava um balão no primeiro campo inválido. | Validação em JavaScript: cada campo mostra a própria mensagem e fica com borda vermelha. |
+
+Página inicial: `ReForma_Interface.png` (MVP) e `prints/home_desktop.png` (versão final).
