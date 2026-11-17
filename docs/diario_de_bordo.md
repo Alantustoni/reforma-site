@@ -44,3 +44,31 @@ Após a revisão, registrar quem modificou cada página, dificuldades encontrada
 | Hospedagem | Projeto no Railway criado a partir do repositório (GitHub Repository → Deploy Repo) | Deploy automático a cada push na main |
 | Endereço | Generate Domain em Settings → Networking | Endereço público registrado no README |
 | Identificação | Preenchimento dos dados da equipe (nomes, RGMs, turma e professor) em contato.html, identificacao_e_atividade.txt, escopo.md/PDF e README | Documentação sem campos pendentes |
+
+## Versão final (2ª entrega) — 16/11/2026
+
+| Data | Atividade | Resultado |
+|---|---|---|
+| 16/11/2026 | Leitura do roteiro da Atividade 02 (AV A1) e comparação, item a item, com o que o repositório já tinha | Lista do que faltava: validação em JavaScript, dados do formulário no localStorage, branch e pull request, diário datado, melhorias do MVP, slides e rubrica |
+| 16/11/2026 | Validação do formulário de contato reescrita em JavaScript | `preventDefault`, mensagem de erro abaixo de cada campo, borda vermelha, foco no primeiro erro |
+| 16/11/2026 | Rascunho do contato no localStorage | Dados voltam ao recarregar a página; botão "Apagar rascunho" |
+| 16/11/2026 | Remoção do trecho de busca via WebMCP do `js/principal.js` | Código menor, que a equipe consegue explicar linha a linha |
+| 16/11/2026 | Trabalho em branch `versao-final` para abrir pull request | Histórico separado da `main` até a revisão |
+| 16/11/2026 | Testes no navegador e atualização de README, escopo, evidências e deste diário | Registrados em evidencias_testes.md |
+
+## Uso de IA
+
+| Ferramenta | Onde foi usada | O que a equipe fez com o resultado |
+|---|---|---|
+| ChatGPT | Preparação do MVP (22/09/2026): estrutura das páginas, textos, CSS e JavaScript inicial | A PREENCHER PELA EQUIPE: o que foi aceito e o que foi corrigido |
+| Claude Code | Versão final (16/11/2026): comparação com o roteiro, validação em JavaScript, rascunho no localStorage e documentação | Código testado no navegador antes de ser aceito; trecho WebMCP gerado anteriormente foi recusado e removido |
+
+### Prompts registrados
+
+1. Claude Code, 16/11/2026 — pedido feito: concluir o trabalho da 2ª entrega do ReForma a partir do repositório no GitHub e do roteiro no Blackboard. Resultado aceito: validação com mensagens próprias e rascunho local. Revisado pela equipe: texto das mensagens de erro e comportamento ao recarregar.
+2. ChatGPT, 22/09/2026 — A PREENCHER PELA EQUIPE: colar aqui o prompt usado para criar o site e o que foi alterado depois.
+
+### Sugestões de IA recusadas
+
+- Integração de busca via WebMCP (`document.modelContext.registerTool`): removida porque não é exigida, não funciona nos navegadores comuns e dificultava explicar o código.
+- A PREENCHER PELA EQUIPE: outras sugestões recusadas, se houver.

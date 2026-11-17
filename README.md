@@ -2,7 +2,7 @@
 
 **Sobrou na sua obra, faz falta em outra casa.**
 
-Site da Atividade A2 da disciplina de Front-End (Análise e Desenvolvimento de Sistemas — UNICID). O ReForma conecta quem tem sobras utilizáveis de materiais de construção com quem precisa delas, por meio de doações gratuitas. Tema: sustentabilidade e impacto social, com acessibilidade para pessoas com deficiência.
+Site do projeto da disciplina de Front-End, na versão final da Atividade 02 (AV A1), que evolui o MVP entregue na Atividade 01 (Análise e Desenvolvimento de Sistemas — UNICID). O ReForma conecta quem tem sobras utilizáveis de materiais de construção com quem precisa delas, por meio de doações gratuitas. Tema: sustentabilidade e impacto social, com acessibilidade para pessoas com deficiência.
 
 ## Site no ar
 
@@ -32,7 +32,7 @@ Equipe: ReForma · Turma: ADS 2º semestre · Professor: Prof. Paulo Fratta
 | `galeria.html` | Imagens com descrições, legendas e fontes |
 | `midia.html` | Vídeo com legendas, áudio com transcrição e iframe |
 | `noticias.html` | Artigos autorais e referência oficial de descarte |
-| `contato.html` | Formulário com validação HTML5 e integrantes |
+| `contato.html` | Formulário com validação em JavaScript, rascunho salvo no `localStorage` e integrantes |
 | `orcamento_hospedagem.html` | Comparativo de três hospedagens e três domínios |
 
 ## Estrutura do repositório
@@ -64,4 +64,8 @@ HTML5 semântico, CSS3 e JavaScript puro, sem frameworks. Validação HTML pelo 
 
 ## Limites desta versão
 
-Interface acadêmica demonstrativa: não há back-end, banco de dados, publicação real de anúncios nem envio de mensagens. Os formulários validam e exibem uma prévia local. Anúncios, iniciativas, indicadores e imagens são fictícios e estão identificados como tal. Créditos e fontes em `docs/fontes.md`.
+Interface acadêmica demonstrativa: não há back-end, banco de dados, publicação real de anúncios nem envio de mensagens. Os formulários validam e exibem uma prévia local; o rascunho do contato fica apenas no navegador da pessoa. Anúncios, iniciativas, indicadores e imagens são fictícios e estão identificados como tal. Créditos e fontes em `docs/fontes.md`.
+
+## Versão final (2ª entrega)
+
+O que mudou desde o MVP está em [`docs/melhorias_mvp.md`](docs/melhorias_mvp.md). O diário de bordo datado, com o registro do uso de IA, está em [`docs/diario_de_bordo.md`](docs/diario_de_bordo.md), e os testes em [`docs/evidencias_testes.md`](docs/evidencias_testes.md).
