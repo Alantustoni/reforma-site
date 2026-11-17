@@ -60,15 +60,18 @@ Após a revisão, registrar quem modificou cada página, dificuldades encontrada
 
 | Ferramenta | Onde foi usada | O que a equipe fez com o resultado |
 |---|---|---|
-| ChatGPT | Preparação do MVP (22/09/2026): estrutura das páginas, textos, CSS e JavaScript inicial | A PREENCHER PELA EQUIPE: o que foi aceito e o que foi corrigido |
+| ChatGPT | MVP (22/09/2026): escolha da ideia, as dez páginas em HTML, o CSS, o JavaScript inicial, imagens, vídeo, áudio e a documentação | Aceito: estrutura das páginas, identidade visual e textos. Corrigido: integrantes e RGMs no escopo (de cinco para quatro pessoas) e, depois, os dados da equipe que tinham ficado pendentes no README e nos demais arquivos |
 | Claude Code | Versão final (16/11/2026): comparação com o roteiro, validação em JavaScript, rascunho no localStorage e documentação | Código testado no navegador antes de ser aceito; trecho WebMCP gerado anteriormente foi recusado e removido |
 
 ### Prompts registrados
 
 1. Claude Code, 16/11/2026 — pedido feito: concluir o trabalho da 2ª entrega do ReForma a partir do repositório no GitHub e do roteiro no Blackboard. Resultado aceito: validação com mensagens próprias e rascunho local. Revisado pela equipe: texto das mensagens de erro e comportamento ao recarregar.
-2. ChatGPT, 22/09/2026 — A PREENCHER PELA EQUIPE: colar aqui o prompt usado para criar o site e o que foi alterado depois.
+2. ChatGPT, 22/09/2026 — "Manda 5 ideias que surpreenderia". Resultado: cinco propostas de doação e reaproveitamento (ReVeste, ReMobiliza, ReForma, ReSom e ReCostura). Aceito: ReForma, com a frase "Sobrou na sua obra, faz falta em outra casa". Recusado: as outras quatro e a primeira ideia (ReConecta, doação de computadores), porque a equipe quis focar em uma coisa só.
+3. ChatGPT, 22/09/2026 — "Vamos dar andamento no Reforma ele se encaixa em todos os requisitos?" seguido de "Consegue fazer dar andamento? Concluir as tarefas e dar andamento no site?". Resultado: primeira versão com dez páginas, busca, formulários demonstrativos, mídia e documentação. Revisado pela equipe: nomes, RGMs, turma e professor, que vieram como campos a preencher.
+4. ChatGPT, 22/09/2026 — "No pdf mude a área cronograma e divisão de tarefas no contexto de número 10 e considere os seguintes integrantes e números de RGM". Resultado: seção 10 do escopo atualizada. Corrigido em seguida: a lista passou de cinco para quatro integrantes.
 
 ### Sugestões de IA recusadas
 
 - Integração de busca via WebMCP (`document.modelContext.registerTool`): removida porque não é exigida, não funciona nos navegadores comuns e dificultava explicar o código.
-- A PREENCHER PELA EQUIPE: outras sugestões recusadas, se houver.
+- Ideias ReConecta, ReLivro, ReVeste, ReMobiliza, ReSom e ReCostura: descartadas na escolha do tema, em 22/09/2026.
+- A integração WebMCP foi incluída pelo ChatGPT sem ter sido pedida; por isso entrou na lista de itens removidos na versão final.
