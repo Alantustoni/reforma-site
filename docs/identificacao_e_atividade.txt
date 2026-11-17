@@ -1,4 +1,4 @@
-REFORMA - ATIVIDADE A2 - PROJETO DE SITE
+REFORMA - PROJETO DE SITE (ATIVIDADE 01 - MVP E ATIVIDADE 02 - VERSÃO FINAL)
 
 Instituição: Universidade Cidade de São Paulo (UNICID)
 Curso: Análise e Desenvolvimento de Sistemas
@@ -6,21 +6,21 @@ Disciplina: Front-End
 Equipe: ReForma
 Turma: ADS 2º semestre
 Professor(a): Paulo Fratta
-Data da entrega: CONFERIR NO BLACKBOARD
+Datas de entrega: MVP em 23/09/2026; versão final em 17/11/2026
 Data de preparação: 22/09/2026
 
 INTEGRANTES
-1. Alan da Costa Tustoni - RGM: 47652535
-2. Allan Santos Pereira - RGM: 047506458
-3. Bruno Ribeiro Alves Paixão - RGM: 47601388
-4. Vinicius da Silva Rocha - RGM: 47479981
+1. Alan da Costa Tustoni
+2. Allan Santos Pereira
+3. Bruno Ribeiro Alves Paixão
+4. Vinicius da Silva Rocha
 
 DESCRIÇÃO DA ATIVIDADE
 O ReForma é um site de doação de sobras utilizáveis de materiais de construção. O objetivo é conectar doadores e interessados para incentivar o reaproveitamento, reduzir desperdícios e apoiar melhorias de moradia. A retirada seria combinada diretamente entre as partes.
 
-A primeira versão possui dez páginas HTML interligadas, CSS responsivo, recursos de acessibilidade, formulários com validação HTML5, catálogo demonstrativo, imagens com fontes, vídeo com legendas, áudio com transcrição, iframe e documentação.
+O site possui dez páginas HTML interligadas, CSS responsivo, recursos de acessibilidade, catálogo demonstrativo, imagens com fontes, vídeo com legendas, áudio com transcrição, iframe e documentação. Na versão final, o formulário de contato é validado em JavaScript e guarda um rascunho no localStorage.
 
-Os anúncios, as iniciativas e os indicadores exibidos são fictícios. Os formulários geram demonstrações locais, sem enviar mensagens ou publicar doações.
+Os anúncios, as iniciativas e os indicadores exibidos são fictícios. Os formulários geram demonstrações locais, sem enviar mensagens ou publicar doações. Os RAs dos integrantes são informados apenas no envio pelo Blackboard.
 
 PUBLICAÇÃO
 Repositório GitHub: https://github.com/Alantustoni/reforma-site

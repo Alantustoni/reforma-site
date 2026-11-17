@@ -147,4 +147,4 @@ Data: ____ / ____ / ________
 
 Assinatura: _________________________________________
 
-Situação: escopo atualizado em 16/11/2026 para a versão final; aprovação pendente. O arquivo Escopo_ReForma.pdf registra a versão do MVP (22/09/2026).
+Situação: escopo atualizado em 16/11/2026 para a versão final. O arquivo Escopo_ReForma.pdf registra a versão do MVP (22/09/2026).
